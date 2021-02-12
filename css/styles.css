@@ -14,3 +14,7 @@ nav{
 body#index{
     background-color: beige;
 }
+
+body#courses{
+    background-color: #E59500;
+}
