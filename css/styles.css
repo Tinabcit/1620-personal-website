@@ -11,11 +11,14 @@ nav{
     grid-template-columns: repeat(15,auto);
 }
 
-body#index{
+body#index {
     background-color: beige;
 }
 
-body#courses{
+body#courses {
     background-color: #E59500;
 }
 
+body#about {
+    background-color: #e5dada;
+}
