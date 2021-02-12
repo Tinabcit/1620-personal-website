@@ -4,5 +4,7 @@ body{
 nav{
     background-color: #e5dada;
     font-family: 'Courgette', cursive;
-    font-size: 25px
+    font-size: 25px;
+    display: grid;
+    grid-template-columns: repeat(15,auto);
 }
