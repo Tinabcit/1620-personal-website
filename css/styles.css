@@ -10,3 +10,7 @@ nav{
     display: grid;
     grid-template-columns: repeat(15,auto);
 }
+
+body#index{
+    background-color: beige;
+}
