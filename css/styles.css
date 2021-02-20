@@ -63,3 +63,10 @@ div#image{
     float: 150px;
 }
 
+.TextWrap {
+    float:left;
+    margin:5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
