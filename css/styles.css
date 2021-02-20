@@ -18,6 +18,9 @@ nav{
     padding:0;
     box-shadow: 0 4px 16px;
 }
+#navbar a{
+    
+}
 body#index {
     background-color: beige;
 }
