@@ -10,7 +10,10 @@ nav{
     display: grid;
     grid-template-columns: repeat(15,auto);
 }
-
+#navbar{
+    list-style-type: none;
+    position:sticky;
+}
 body#index {
     background-color: beige;
 }
