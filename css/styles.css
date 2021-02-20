@@ -59,8 +59,9 @@ div#image{
     display: flex;
     margin: 0 auto;
     position: sticky;
-    width: auto;
-    float: 150px;
+    width: 150px;
+    float: left;
+
 }
 
 .TextWrap {
