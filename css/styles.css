@@ -23,6 +23,9 @@ nav{
     padding: 10px;
     text-decoration: none;
 }
+#navbar a:hover{
+    background-color: white;
+}
 body#index {
     background-color: beige;
 }
