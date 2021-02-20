@@ -13,6 +13,10 @@ nav{
 #navbar{
     list-style-type: none;
     position:sticky;
+    top:0;
+    margin:0;
+    padding:0;
+    box-shadow: 0 4px 16px;
 }
 body#index {
     background-color: beige;
