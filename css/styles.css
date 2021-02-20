@@ -29,6 +29,12 @@ nav{
 #Content{
     padding: 20px;
 }
+.fixed{
+    position:fixed;
+    widows: 100%;
+    top:0;
+    z-index: 20;
+}
 body#index {
     background-color: beige;
 }
