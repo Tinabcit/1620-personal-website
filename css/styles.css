@@ -26,6 +26,9 @@ nav{
 #navbar a:hover{
     background-color: white;
 }
+#Content{
+    padding: 20px;
+}
 body#index {
     background-color: beige;
 }
