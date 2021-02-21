@@ -10,7 +10,6 @@ body{
 }
 nav{
     background-color: #e5dada;
-    font-family: 'Courgette', cursive;
     font-size: 25px;
     display: grid;
     grid-template-columns: repeat(15,auto);
@@ -77,29 +76,11 @@ nav li a:hover{
 }
 #Content-Index{
     padding: 20px;
-    width: 74px;
-    margin: 4em auto;
-    line-height: 40px;
-    font-size: 17px;
-    text-align: left;
-    position: relative;
-    top: 450px;
-    height: 34px;
-    list-style-type: none;
-    padding-top: 33px;;
-    padding-left: 10px;
-    top: 55px;
-    left: 10px;
-    display:inline;
-}
-
-#Content-courses{
-    padding: 20px;
     width:100%;
     margin: 4em auto;
     line-height: 40px;
     font-size: 17px;
-    text-align: justify;
+    text-align: left;
     position: absolute;
     top: 450px;
     height: 1500px ;
@@ -109,6 +90,30 @@ nav li a:hover{
     top: 55px;
     left: 10px;
     display:inline;
+
+}
+}
+
+#Content-courses{
+    padding: 20px;
+    width:100%;
+    margin: 10px 16px;
+    line-height: 40px;
+    font-size: 17px;
+    text-align: left;
+    position: absolute;
+    top: 450px;
+    height: 1500px ;
+    list-style-type: none;
+    padding-top: 33px;;
+    padding-left: 10px;
+    top: 55px;
+    left: 10px;
+    display:inline;
+
+}
+
+}
 }
 
 body#index {
