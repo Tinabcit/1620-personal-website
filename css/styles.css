@@ -14,7 +14,7 @@ nav{
     font-size: 25px;
     display: grid;
     grid-template-columns: repeat(15,auto);
-    float :right;
+    float :left;
 
 
     
