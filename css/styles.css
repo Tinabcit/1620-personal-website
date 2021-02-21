@@ -111,6 +111,7 @@ nav{
     padding-left: 10px;
     top: 55px;
     left: 10px;
+    position: absolute;
 }
 #Content-Index{
     padding: 20px;
