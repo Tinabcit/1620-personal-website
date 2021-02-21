@@ -50,8 +50,8 @@ nav a{
 
 }
 
-#navbar-about a:hover{
-    background-color: white;
+nav a:hover{
+    background-color:#02040F;
 }
 #navbar-course{
     list-style-type: none;
