@@ -44,9 +44,10 @@ nav li a{
     font-size: 25px;
     position: relative;
     font-family: 'Dancing Script', cursive;
-    margin-left: 300px;
-    margin-right: 500px;
+    margin-left: 350px;
+    margin-right: 400px;
     padding-top: 23px;
+    padding-bottom: 20px;
     padding-right: 50px;
 
 }
@@ -70,6 +71,7 @@ nav li a:hover{
     padding-left: 10px;
     top: 55px;
     left: 10px;
+    padding-bottom: 23px;
 }
 #Content-Index{
     padding: 20px;
