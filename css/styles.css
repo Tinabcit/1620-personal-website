@@ -15,10 +15,15 @@ nav{
     display: grid;
     grid-template-columns: repeat(15,auto);
     float :right;
-    
+
 
     
 
+}
+nav ul{
+    margin:0;
+    padding:0;
+    list-style: none;
 }
 
 #navbar-about{
