@@ -70,19 +70,21 @@ nav li a:hover{
     padding-top: 33px;;
     padding-left: 10px;
     top: 55px;
+    bottom: 44px;
     left: 10px;
-    padding-bottom: 23px;
+    padding-bottom: 23px; 
+    position: relative;
 }
 #Content-Index{
     padding: 20px;
-    width:100%;
+    width: 74px;
     margin: 4em auto;
     line-height: 40px;
     font-size: 17px;
     text-align: left;
-    position: absolute;
+    position: relative;
     top: 450px;
-    height: 1500px ;
+    height: 34px;
     list-style-type: none;
     padding-top: 33px;;
     padding-left: 10px;
