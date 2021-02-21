@@ -33,24 +33,25 @@ nav ul{
 }
 
 nav li{
-    display: inline-block;
-    margin-left: 70px;
-    padding-top: 23px;
+    display:inline-block;
+    
 }
-nav a{
-    display: grid;
-    padding: 14px;
+nav li a{
+    display: inline-block;
+    padding: 14px 16px;
     text-decoration: none;
     text-align: center;
     font-size: 25px;
-    float: left;
     position: relative;
     font-family: 'Dancing Script', cursive;
-
+    margin-left: 300px;
+    margin-right: 500px;
+    padding-top: 23px;
+    padding-right: 50px;
 
 }
 
-nav a:hover{
+nav li a:hover{
     background-color:#02040F;
 }
 
