@@ -8,18 +8,24 @@ body{
     padding: 10px;
     width: 100%;
     background-color: #edddd0;
-    display:flex;
+    display:grid;
 
 }
 header{
-    width:80%;
+    width: 100%;
     height: 10px;
     background-color: #DB504A;
     justify-content: space-between;
     align-items: left;
     padding: 30px 10%;
+    grid-column: span 12;
+    grid-row: 1/2;
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    flex-grow: 1;
 
 }
+
 .nav_links{
     list-style: none;
 }
@@ -50,11 +56,25 @@ header{
     overflow: hidden;
     object-fit: scale-down;
 }
+.article{
+   padding: 1em;
+   display: grid;
+   flex-wrap: wrap;
+    
+}
+.aside{
+    grid-column: span 2;
+    grid-row: 2/3;
+    display: flex;
+}
 .footer{
    position:absolute;
    bottom:0;
-   width:100%;
+   width: 100%;
    height:60px; 
    background-color: #DB504A;
+   grid-column: span 12;
+   grid-row: 3/4;
+   
     
 }
