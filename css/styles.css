@@ -14,7 +14,7 @@ header{
     height: 70px;
     background-color: #DB504A;
     justify-content: space-between;
-    align-items: center;
+    align-items: left;
     padding: 30px 10%;
 }
 .nav_links{
