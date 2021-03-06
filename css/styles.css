@@ -17,7 +17,9 @@ header{
     align-items: center;
     padding: 30px 10%;
 }
-
+.nav_links{
+    list-style: none;
+}
 
 
 
