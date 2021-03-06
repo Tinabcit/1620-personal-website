@@ -35,11 +35,6 @@ header{
 .nav_links li a:hover{
     color:#334259;
 }
-.image{
-    float: right;
-    height: 800px;
-    width: 1000px;
-}
 
 .TextWrap {
     float:left;
@@ -54,10 +49,6 @@ header{
     height:900px;
     overflow: hidden;
     object-fit: scale-down;
-}
-.container{
-    height: 100%;
-    position:relative;
 }
 .footer{
    position:absolute;
